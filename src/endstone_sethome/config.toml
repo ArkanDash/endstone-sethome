@@ -1,0 +1,6 @@
+# Sethome Settings
+
+# Allow other dimension to set home
+overworld = true
+nether = false
+theend = false
